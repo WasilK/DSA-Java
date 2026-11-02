@@ -1,0 +1,16 @@
+
+b
+java:S1192°"FDefine a constant instead of duplicating this literal "China" 3 times.(•¯íûþÿÿÿÿ
+‡
+java:S1319—"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾Ôá‡
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁËÓè
+f	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼ÿ»øÿÿÿÿ
+a
+java:S1845"FRename field "N" to prevent any misunderstanding/clash with field "n".(›¼ÿ»øÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ÕÎöœ
+F	java:S106³"+Replace this use of System.out by a logger.(Æ®Àãýÿÿÿÿ
+A	java:S106´"+Replace this use of System.out by a logger.(ºõ“À
+A	java:S106·"+Replace this use of System.out by a logger.(·èÞµ
+F	java:S106¹"+Replace this use of System.out by a logger.(»…›–øÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(ÐÆµØ

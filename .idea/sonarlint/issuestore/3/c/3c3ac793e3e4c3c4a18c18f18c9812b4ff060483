@@ -1,0 +1,8 @@
+
+a
+java:S1192	"FDefine a constant instead of duplicating this literal "India" 3 times.(ªª…ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁËÓè
+@	java:S106"+Replace this use of System.out by a logger.(¢Î€’
+@	java:S106"+Replace this use of System.out by a logger.(í‰¶Ó
+E	java:S106"+Replace this use of System.out by a logger.(úî¡Éøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‘¨óÎúÿÿÿÿ

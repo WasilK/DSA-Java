@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ìúĞ
+B
+java:S1197",Move the array designators [][] to the type.(ÇƒØª
+B
+java:S1197",Move the array designators [][] to the type.(Ìà…¦
+@
+java:S1659""%Declare "nextCol" on a separate line.(ú…Üüÿÿÿÿ
+G
+java:S11976",Move the array designators [][] to the type.(‡ĞÇİıÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(Ğ¥À
+E	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+G
+java:S1197?",Move the array designators [][] to the type.(ÿµ†Âúÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(¹şÀÙıÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(ıŞˆ

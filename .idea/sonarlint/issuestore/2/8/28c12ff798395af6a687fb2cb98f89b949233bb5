@@ -1,0 +1,11 @@
+
+z
+java:S1319"dThe type of "tickets" should be an interface such as "Map" rather than the implementation "HashMap".(¸Ðó”
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁËÓè
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÉÐ¸šûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÔõÄ‚øÿÿÿÿ
+C
+java:S1481"(Remove this unused "key" local variable.(ÉÐ¸šûÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ìžä
+E	java:S106 "+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ

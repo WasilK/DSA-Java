@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÆæõÿÿÿÿÿ
+o
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ø½Ë«
+E
+java:S1197"*Move the array designators [] to the type.(Þ¤ô‹ûÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(¿À‘Ï
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(™ûß†
+E	java:S106$"+Replace this use of System.out by a logger.(«Í‹åþÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
