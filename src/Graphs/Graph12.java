@@ -5,7 +5,7 @@ import java.util.*;
 import static Graphs.Edge.cGprims;
 
 public class Graph12 {
-    static class Pair{
+    private static class Pair{
         int v;
         int cost;
         public Pair(int v, int cost){

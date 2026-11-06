@@ -191,4 +191,12 @@ public class Edge {
         graph[3].add(new Edge(3, 1, 40));
         graph[3].add(new Edge(3, 2, 50));
     }
+
+    static void cGKruskals(ArrayList<Edge> edges){
+        edges.add(new Edge(0, 1, 10));
+        edges.add(new Edge(0, 2, 15));
+        edges.add(new Edge(0, 3, 30));
+        edges.add(new Edge(1, 3, 40));
+        edges.add(new Edge(2, 3, 50));
+    }
 }
