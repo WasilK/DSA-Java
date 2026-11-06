@@ -27,6 +27,7 @@ public class Graph10 { // Pair class to store node and path from source
         while(!pq.isEmpty()){
             Pair curr = pq.poll();
             if(!vis[curr.n]){
+                vis[curr.n] = true;
                 for(int i = 0; i < graph[curr.n].size(); i++){
                     Edge e = graph[curr.n].get(i);
                     int u = e.src;
